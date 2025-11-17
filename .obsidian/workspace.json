@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "42c113ee2cd7b7a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "ecf1ec2cc13fe31b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e3ffd6ba7a6325b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Templater/WordDocTemplate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WordDocTemplate"
+            }
+          },
+          {
+            "id": "5b6ee97d9d56ba7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docs/test/test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b0d8103f04255bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6bf74a2ea87f7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ddb62f558a3a0e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab75af36f2cafcb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "18001671bed63505",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e021f65ddafbd2a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "03633b8c56f58d0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8d5ceb6abacaf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docs/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Test"
+            }
+          },
+          {
+            "id": "8e82faa64120bbca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docs/Test.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Test"
+            }
+          },
+          {
+            "id": "3a58301238eff5be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "225ca390cc7a0104",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "180e6189b4860a3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docs/Test.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Test"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "5b6ee97d9d56ba7d",
+  "lastOpenFiles": [
+    "Docs/test/~$test.docx",
+    "README.md",
+    "MyObsidianVault/README.md",
+    "MyObsidianVault",
+    "Docs/test/test.docx",
+    "Docs/test/img/Pasted image 20251116075416.png",
+    "Templates/Templater/NewWordProject.md",
+    "Untitled.md",
+    "Docs/test/test.md",
+    "Templates/Templater/WordDocTemplate.md",
+    "Docs/test/img",
+    "Docs/test",
+    "test.md",
+    "Templates/Core/WordDocTemplate.md",
+    "util/memo.md",
+    "Docs/Untitled.md",
+    "Templates/Templater",
+    "Templates/Core",
+    "Docs/Untitled 1.md",
+    "Docs/Test.md",
+    "Docs/20251116/20251116.md",
+    "Docs/20251116/img",
+    "Docs/20251116",
+    "Untitled.base",
+    "util/setup.md",
+    "util/Welcome.md"
+  ]
+}
